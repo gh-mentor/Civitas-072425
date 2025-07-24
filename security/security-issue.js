@@ -1,5 +1,5 @@
 /*
-Review the code. Identify any areas of concern and recommend improvements. It is important that there are no vulnerabilities.
+Review the code. I want the code to qualify as secure and not vulnerable to SQL injection or other security issues. I also want to adhere to SOLID principles.
 */
 
 const mysql = require('mysql');
